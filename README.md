@@ -5,6 +5,6 @@ Cheetos Bot for your fortnite cheat, valorant, etc...
 # COPYRIGHT 🚨
 by xZisko aka Kizoumi'Dev
 # LICENSE 💎
-MIT
+None, but please put my name somewhere
 # Read
 - Note: Build.js is outdated and need update, you can modify the code
