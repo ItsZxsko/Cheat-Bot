@@ -8,3 +8,6 @@ by xZisko aka Kizoumi'Dev
 None, but please put my name somewhere
 # Read
 - Note: Build.js is outdated and need update, you can modify the code
+# FIX
+
+FOR FIX ERROR TypeError: Cannot read properties of undefined (reading 'name') DO THAT REMOVE X.RAW
